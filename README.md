@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on getting to know and understand working with Git(Hub)
+- 🌱 I’m currently expanding my knowledge about anything to do with IaC, DevOps, AI
+
 <!--
 **Daniel2267-1/Daniel2267-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
